@@ -5,7 +5,7 @@
 <p>I'm highly motivated student from Saint-Peterburg. 
 I don't have work experience, but I'm learning a lot now. And I like it. I love seach new information and study it. 
 And yes I learn very quickly. 
-I also very fast find a common language with people.</p>
+I also very fast find a common language with people!</p>
 
 <h2> SKILLS </h2>
 <h5>1. Java/JavaScript </h5> 
